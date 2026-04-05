@@ -1,0 +1,501 @@
+order_id,date,category,region,payment_method,price,quantity,discount_pct,revenue,customer_rating,month,month_num
+1001,2023-01-01 00:00:00.000000,Home & Kitchen,South,UPI,14597,3,20,35032.8,5.0,January,1
+1002,2023-01-01 17:30:25.250501,Sports,East,Cash on Delivery,9187,5,15,39044.75,2.0,January,1
+1003,2023-01-02 11:00:50.501002,Books,North,Cash on Delivery,828,1,20,662.4,5.0,January,1
+1004,2023-01-03 04:31:15.751503,Sports,East,Credit Card,18149,1,20,14519.2,2.0,January,1
+1005,2023-01-03 22:01:41.002004,Sports,West,Credit Card,1098,1,0,1098.0,5.0,January,1
+1006,2023-01-04 15:32:06.252505,Clothing,East,UPI,695,1,5,660.25,3.0,January,1
+1007,2023-01-05 09:02:31.503006,Books,West,UPI,544,1,20,435.2,2.0,January,1
+1008,2023-01-06 02:32:56.753507,Books,West,UPI,1356,2,20,2169.6,5.0,January,1
+1009,2023-01-06 20:03:22.004008,Books,South,Cash on Delivery,175,5,10,787.5,1.0,January,1
+1010,2023-01-07 13:33:47.254509,Sports,West,Cash on Delivery,4760,3,5,13566.0,3.0,January,1
+1011,2023-01-08 07:04:12.505010,Home & Kitchen,South,Cash on Delivery,2702,3,10,7295.4,3.0,January,1
+1012,2023-01-09 00:34:37.755511,Books,South,Credit Card,1919,3,5,5469.15,1.0,January,1
+1013,2023-01-09 18:05:03.006012,Sports,South,Cash on Delivery,17501,3,10,47252.7,5.0,January,1
+1014,2023-01-10 11:35:28.256513,Clothing,North,Net Banking,3082,2,20,4931.2,4.0,January,1
+1015,2023-01-11 05:05:53.507014,Home & Kitchen,North,Net Banking,5146,4,20,16467.2,1.0,January,1
+1016,2023-01-11 22:36:18.757515,Clothing,West,UPI,3877,5,0,19385.0,5.0,January,1
+1017,2023-01-12 16:06:44.008016,Home & Kitchen,South,Cash on Delivery,5686,1,10,5117.4,1.0,January,1
+1018,2023-01-13 09:37:09.258517,Sports,North,Net Banking,8735,4,15,29699.0,1.0,January,1
+1019,2023-01-14 03:07:34.509018,Electronics,South,UPI,21864,3,0,65592.0,2.0,January,1
+1020,2023-01-14 20:37:59.759519,Home & Kitchen,East,Cash on Delivery,11532,4,10,41515.2,5.0,January,1
+1021,2023-01-15 14:08:25.010020,Clothing,East,Credit Card,4791,5,10,21559.5,4.0,January,1
+1022,2023-01-16 07:38:50.260521,Sports,East,Net Banking,11530,1,0,11530.0,2.0,January,1
+1023,2023-01-17 01:09:15.511022,Home & Kitchen,West,Credit Card,5788,1,20,4630.4,1.0,January,1
+1024,2023-01-17 18:39:40.761523,Electronics,South,Cash on Delivery,40919,5,10,184135.5,1.0,January,1
+1025,2023-01-18 12:10:06.012024,Electronics,East,Net Banking,1667,5,20,6668.0,1.0,January,1
+1026,2023-01-19 05:40:31.262525,Books,North,Cash on Delivery,668,3,0,2004.0,5.0,January,1
+1027,2023-01-19 23:10:56.513026,Books,East,Credit Card,1162,1,20,929.6,5.0,January,1
+1028,2023-01-20 16:41:21.763527,Clothing,East,Net Banking,2456,4,5,9332.8,2.0,January,1
+1029,2023-01-21 10:11:47.014028,Home & Kitchen,East,Credit Card,8060,2,15,13702.0,4.0,January,1
+1030,2023-01-22 03:42:12.264529,Home & Kitchen,West,Cash on Delivery,5361,2,10,9649.8,3.0,January,1
+1031,2023-01-22 21:12:37.515030,Books,North,Cash on Delivery,1309,5,15,5563.25,3.0,January,1
+1032,2023-01-23 14:43:02.765531,Home & Kitchen,South,Credit Card,11374,3,20,27297.6,1.0,January,1
+1033,2023-01-24 08:13:28.016032,Home & Kitchen,North,Net Banking,6741,2,10,12133.8,1.0,January,1
+1034,2023-01-25 01:43:53.266533,Electronics,South,Credit Card,37997,1,20,30397.6,1.0,January,1
+1035,2023-01-25 19:14:18.517034,Books,West,Cash on Delivery,1256,5,5,5966.0,2.0,January,1
+1036,2023-01-26 12:44:43.767535,Sports,West,Credit Card,5734,4,0,22936.0,2.0,January,1
+1037,2023-01-27 06:15:09.018036,Books,West,Cash on Delivery,832,5,10,3744.0,1.0,January,1
+1038,2023-01-27 23:45:34.268537,Sports,West,Credit Card,4730,4,5,17974.0,2.0,January,1
+1039,2023-01-28 17:15:59.519038,Electronics,South,Net Banking,24894,5,5,118246.5,5.0,January,1
+1040,2023-01-29 10:46:24.769539,Clothing,East,Net Banking,1253,5,10,5638.5,5.0,January,1
+1041,2023-01-30 04:16:50.020040,Home & Kitchen,South,Credit Card,2739,5,20,10956.0,2.0,January,1
+1042,2023-01-30 21:47:15.270541,Electronics,North,Credit Card,7556,4,5,28712.8,1.0,January,1
+1043,2023-01-31 15:17:40.521042,Home & Kitchen,West,Net Banking,11716,4,15,39834.4,2.0,January,1
+1044,2023-02-01 08:48:05.771543,Clothing,West,Cash on Delivery,3601,5,5,17104.75,2.0,February,2
+1045,2023-02-02 02:18:31.022044,Clothing,North,Net Banking,1842,2,20,2947.2,2.0,February,2
+1046,2023-02-02 19:48:56.272545,Electronics,South,Cash on Delivery,22177,3,20,53224.8,3.0,February,2
+1047,2023-02-03 13:19:21.523046,Clothing,East,Credit Card,1491,3,15,3802.05,5.0,February,2
+1048,2023-02-04 06:49:46.773547,Sports,East,Credit Card,6713,3,5,19132.05,4.0,February,2
+1049,2023-02-05 00:20:12.024048,Clothing,North,Cash on Delivery,3293,4,20,10537.6,4.0,February,2
+1050,2023-02-05 17:50:37.274549,Home & Kitchen,East,Credit Card,7138,4,10,25696.8,3.0,February,2
+1051,2023-02-06 11:21:02.525050,Home & Kitchen,South,Cash on Delivery,2881,2,0,5762.0,3.0,February,2
+1052,2023-02-07 04:51:27.775551,Home & Kitchen,South,UPI,9609,3,0,28827.0,3.0,February,2
+1053,2023-02-07 22:21:53.026052,Home & Kitchen,North,Net Banking,1740,3,0,5220.0,3.0,February,2
+1054,2023-02-08 15:52:18.276553,Sports,South,UPI,14207,5,5,67483.25,1.0,February,2
+1055,2023-02-09 09:22:43.527054,Books,West,Cash on Delivery,1488,4,15,5059.2,5.0,February,2
+1056,2023-02-10 02:53:08.777555,Electronics,North,Net Banking,26932,3,20,64636.8,4.0,February,2
+1057,2023-02-10 20:23:34.028056,Home & Kitchen,South,Cash on Delivery,1565,2,10,2817.0,2.0,February,2
+1058,2023-02-11 13:53:59.278557,Clothing,North,Net Banking,799,2,10,1438.2,4.0,February,2
+1059,2023-02-12 07:24:24.529058,Home & Kitchen,East,Net Banking,10072,3,5,28705.2,4.0,February,2
+1060,2023-02-13 00:54:49.779559,Clothing,South,Net Banking,810,4,0,3240.0,5.0,February,2
+1061,2023-02-13 18:25:15.030060,Clothing,West,Net Banking,4612,2,5,8762.8,4.0,February,2
+1062,2023-02-14 11:55:40.280561,Home & Kitchen,South,Cash on Delivery,1524,5,15,6477.0,4.0,February,2
+1063,2023-02-15 05:26:05.531062,Sports,North,Net Banking,3541,2,15,6019.7,3.0,February,2
+1064,2023-02-15 22:56:30.781563,Clothing,North,Net Banking,3786,1,20,3028.8,5.0,February,2
+1065,2023-02-16 16:26:56.032064,Clothing,South,UPI,2110,1,20,1688.0,1.0,February,2
+1066,2023-02-17 09:57:21.282565,Home & Kitchen,West,Credit Card,6788,4,15,23079.2,2.0,February,2
+1067,2023-02-18 03:27:46.533066,Clothing,West,Credit Card,3223,3,15,8218.65,4.0,February,2
+1068,2023-02-18 20:58:11.783567,Clothing,West,UPI,2514,4,15,8547.6,2.0,February,2
+1069,2023-02-19 14:28:37.034068,Home & Kitchen,North,UPI,4386,4,5,16666.8,1.0,February,2
+1070,2023-02-20 07:59:02.284569,Home & Kitchen,South,Cash on Delivery,9105,4,15,30957.0,2.0,February,2
+1071,2023-02-21 01:29:27.535070,Electronics,East,Cash on Delivery,28678,4,10,103240.8,1.0,February,2
+1072,2023-02-21 18:59:52.785571,Sports,North,Cash on Delivery,15885,5,0,79425.0,3.0,February,2
+1073,2023-02-22 12:30:18.036072,Sports,West,UPI,12114,5,15,51484.5,4.0,February,2
+1074,2023-02-23 06:00:43.286573,Clothing,South,UPI,4568,2,0,9136.0,1.0,February,2
+1075,2023-02-23 23:31:08.537074,Sports,West,Net Banking,5148,1,5,4890.6,2.0,February,2
+1076,2023-02-24 17:01:33.787575,Clothing,East,Cash on Delivery,1543,4,0,6172.0,4.0,February,2
+1077,2023-02-25 10:31:59.038076,Electronics,West,Cash on Delivery,4209,2,5,7997.1,3.0,February,2
+1078,2023-02-26 04:02:24.288577,Home & Kitchen,West,Cash on Delivery,9473,1,10,8525.7,4.0,February,2
+1079,2023-02-26 21:32:49.539078,Home & Kitchen,East,Credit Card,14171,3,5,40387.35,1.0,February,2
+1080,2023-02-27 15:03:14.789579,Home & Kitchen,South,Net Banking,6819,5,5,32390.25,3.0,February,2
+1081,2023-02-28 08:33:40.040080,Sports,North,Cash on Delivery,13516,1,20,10812.8,2.0,February,2
+1082,2023-03-01 02:04:05.290581,Electronics,South,Cash on Delivery,25970,3,15,66223.5,3.0,March,3
+1083,2023-03-01 19:34:30.541082,Sports,East,Cash on Delivery,9976,1,15,8479.6,3.0,March,3
+1084,2023-03-02 13:04:55.791583,Sports,West,Credit Card,10550,5,10,47475.0,5.0,March,3
+1085,2023-03-03 06:35:21.042084,Electronics,South,Credit Card,39798,5,10,179091.0,3.0,March,3
+1086,2023-03-04 00:05:46.292585,Electronics,North,UPI,43456,2,15,73875.2,3.0,March,3
+1087,2023-03-04 17:36:11.543086,Electronics,East,Net Banking,15183,4,20,48585.6,4.0,March,3
+1088,2023-03-05 11:06:36.793587,Electronics,South,UPI,1004,1,15,853.4,2.0,March,3
+1089,2023-03-06 04:37:02.044088,Home & Kitchen,North,Net Banking,1414,1,20,1131.2,4.0,March,3
+1090,2023-03-06 22:07:27.294589,Books,East,Credit Card,1631,3,10,4403.7,4.0,March,3
+1091,2023-03-07 15:37:52.545090,Books,North,Cash on Delivery,1492,5,0,7460.0,1.0,March,3
+1092,2023-03-08 09:08:17.795591,Electronics,East,UPI,24460,1,10,22014.0,4.0,March,3
+1093,2023-03-09 02:38:43.046092,Books,West,Cash on Delivery,923,5,10,4153.5,5.0,March,3
+1094,2023-03-09 20:09:08.296593,Books,South,UPI,1028,1,5,976.6,5.0,March,3
+1095,2023-03-10 13:39:33.547094,Electronics,North,Credit Card,38297,2,5,72764.3,1.0,March,3
+1096,2023-03-11 07:09:58.797595,Books,East,Credit Card,1240,4,5,4712.0,2.0,March,3
+1097,2023-03-12 00:40:24.048096,Sports,North,Credit Card,16917,1,5,16071.15,2.0,March,3
+1098,2023-03-12 18:10:49.298597,Clothing,North,UPI,2405,5,20,9620.0,4.0,March,3
+1099,2023-03-13 11:41:14.549098,Clothing,South,Net Banking,3927,2,15,6675.9,4.0,March,3
+1100,2023-03-14 05:11:39.799599,Electronics,West,UPI,46240,1,0,46240.0,4.0,March,3
+1101,2023-03-14 22:42:05.050100,Home & Kitchen,North,Net Banking,6516,3,10,17593.2,2.0,March,3
+1102,2023-03-15 16:12:30.300601,Electronics,East,UPI,35120,4,20,112384.0,3.0,March,3
+1103,2023-03-16 09:42:55.551102,Home & Kitchen,East,UPI,5110,1,0,5110.0,5.0,March,3
+1104,2023-03-17 03:13:20.801603,Clothing,West,Credit Card,4475,2,20,7160.0,3.0,March,3
+1105,2023-03-17 20:43:46.052104,Electronics,East,Cash on Delivery,28009,3,20,67221.6,3.0,March,3
+1106,2023-03-18 14:14:11.302605,Sports,West,Cash on Delivery,11403,2,10,20525.4,2.0,March,3
+1107,2023-03-19 07:44:36.553106,Books,East,Net Banking,1352,2,15,2298.4,3.0,March,3
+1108,2023-03-20 01:15:01.803607,Home & Kitchen,South,Cash on Delivery,14187,3,5,40432.95,1.0,March,3
+1109,2023-03-20 18:45:27.054108,Books,North,UPI,1350,2,15,2295.0,4.0,March,3
+1110,2023-03-21 12:15:52.304609,Books,South,UPI,1782,3,10,4811.4,1.0,March,3
+1111,2023-03-22 05:46:17.555110,Electronics,North,Credit Card,14343,1,10,12908.7,5.0,March,3
+1112,2023-03-22 23:16:42.805611,Books,North,Credit Card,1564,3,10,4222.8,4.0,March,3
+1113,2023-03-23 16:47:08.056112,Sports,North,Cash on Delivery,16161,3,0,48483.0,3.0,March,3
+1114,2023-03-24 10:17:33.306613,Books,South,Net Banking,146,4,15,496.4,5.0,March,3
+1115,2023-03-25 03:47:58.557114,Electronics,North,Cash on Delivery,18140,3,15,46257.0,4.0,March,3
+1116,2023-03-25 21:18:23.807615,Sports,South,Cash on Delivery,6045,3,20,14508.0,3.0,March,3
+1117,2023-03-26 14:48:49.058116,Clothing,West,Cash on Delivery,3786,1,20,3028.8,1.0,March,3
+1118,2023-03-27 08:19:14.308617,Books,East,Cash on Delivery,1636,4,20,5235.2,4.0,March,3
+1119,2023-03-28 01:49:39.559118,Electronics,East,UPI,42856,5,10,192852.0,3.0,March,3
+1120,2023-03-28 19:20:04.809619,Clothing,North,Net Banking,3937,1,15,3346.45,1.0,March,3
+1121,2023-03-29 12:50:30.060120,Clothing,South,UPI,3630,1,10,3267.0,5.0,March,3
+1122,2023-03-30 06:20:55.310621,Home & Kitchen,East,Net Banking,2903,5,0,14515.0,5.0,March,3
+1123,2023-03-30 23:51:20.561122,Sports,South,Credit Card,9062,3,20,21748.8,5.0,March,3
+1124,2023-03-31 17:21:45.811623,Books,South,Cash on Delivery,1070,2,10,1926.0,5.0,March,3
+1125,2023-04-01 10:52:11.062124,Electronics,North,UPI,13823,4,10,49762.8,3.0,April,4
+1126,2023-04-02 04:22:36.312625,Home & Kitchen,East,Net Banking,1553,2,0,3106.0,4.0,April,4
+1127,2023-04-02 21:53:01.563126,Sports,North,Credit Card,11375,5,5,54031.25,4.0,April,4
+1128,2023-04-03 15:23:26.813627,Home & Kitchen,North,Credit Card,11223,1,15,9539.55,2.0,April,4
+1129,2023-04-04 08:53:52.064128,Sports,East,Cash on Delivery,1067,1,5,1013.65,3.0,April,4
+1130,2023-04-05 02:24:17.314629,Sports,East,Net Banking,9737,4,20,31158.4,3.0,April,4
+1131,2023-04-05 19:54:42.565130,Books,West,UPI,1471,1,10,1323.9,5.0,April,4
+1132,2023-04-06 13:25:07.815631,Sports,West,Cash on Delivery,4119,1,0,4119.0,1.0,April,4
+1133,2023-04-07 06:55:33.066132,Home & Kitchen,South,UPI,2945,4,0,11780.0,3.0,April,4
+1134,2023-04-08 00:25:58.316633,Sports,East,Credit Card,7883,4,15,26802.2,1.0,April,4
+1135,2023-04-08 17:56:23.567134,Books,West,UPI,1301,5,5,6179.75,4.0,April,4
+1136,2023-04-09 11:26:48.817635,Books,South,UPI,639,1,15,543.15,1.0,April,4
+1137,2023-04-10 04:57:14.068136,Home & Kitchen,South,Cash on Delivery,11171,1,10,10053.9,4.0,April,4
+1138,2023-04-10 22:27:39.318637,Clothing,South,UPI,4436,5,15,18853.0,2.0,April,4
+1139,2023-04-11 15:58:04.569138,Clothing,West,Cash on Delivery,4075,3,0,12225.0,2.0,April,4
+1140,2023-04-12 09:28:29.819639,Sports,East,Credit Card,6442,3,0,19326.0,5.0,April,4
+1141,2023-04-13 02:58:55.070140,Electronics,North,Cash on Delivery,48105,3,20,115452.0,3.0,April,4
+1142,2023-04-13 20:29:20.320641,Sports,South,Cash on Delivery,7712,5,20,30848.0,5.0,April,4
+1143,2023-04-14 13:59:45.571142,Home & Kitchen,West,Net Banking,5520,1,10,4968.0,4.0,April,4
+1144,2023-04-15 07:30:10.821643,Home & Kitchen,West,UPI,13416,5,5,63726.0,5.0,April,4
+1145,2023-04-16 01:00:36.072144,Home & Kitchen,North,Credit Card,6332,5,15,26911.0,1.0,April,4
+1146,2023-04-16 18:31:01.322645,Home & Kitchen,North,Cash on Delivery,8091,3,10,21845.7,4.0,April,4
+1147,2023-04-17 12:01:26.573146,Home & Kitchen,West,Credit Card,10900,2,20,17440.0,2.0,April,4
+1148,2023-04-18 05:31:51.823647,Books,East,Net Banking,831,1,15,706.35,3.0,April,4
+1149,2023-04-18 23:02:17.074148,Clothing,North,UPI,1224,3,20,2937.6,4.0,April,4
+1150,2023-04-19 16:32:42.324649,Home & Kitchen,West,Cash on Delivery,11348,2,15,19291.6,4.0,April,4
+1151,2023-04-20 10:03:07.575150,Electronics,North,UPI,34849,2,5,66213.1,1.0,April,4
+1152,2023-04-21 03:33:32.825651,Electronics,East,Net Banking,45945,4,10,165402.0,3.0,April,4
+1153,2023-04-21 21:03:58.076152,Electronics,South,Net Banking,6213,1,15,5281.05,2.0,April,4
+1154,2023-04-22 14:34:23.326653,Electronics,North,Credit Card,49907,2,0,99814.0,4.0,April,4
+1155,2023-04-23 08:04:48.577154,Books,East,Cash on Delivery,808,3,0,2424.0,3.0,April,4
+1156,2023-04-24 01:35:13.827655,Electronics,West,Credit Card,10636,4,15,36162.4,1.0,April,4
+1157,2023-04-24 19:05:39.078156,Home & Kitchen,North,Net Banking,14985,1,15,12737.25,5.0,April,4
+1158,2023-04-25 12:36:04.328657,Sports,North,UPI,409,5,15,1738.25,2.0,April,4
+1159,2023-04-26 06:06:29.579158,Electronics,West,Credit Card,19755,3,0,59265.0,3.0,April,4
+1160,2023-04-26 23:36:54.829659,Books,South,Credit Card,897,2,0,1794.0,4.0,April,4
+1161,2023-04-27 17:07:20.080160,Books,West,UPI,1365,2,15,2320.5,4.0,April,4
+1162,2023-04-28 10:37:45.330661,Electronics,North,Credit Card,30048,3,20,72115.2,2.0,April,4
+1163,2023-04-29 04:08:10.581162,Sports,West,UPI,5524,2,20,8838.4,5.0,April,4
+1164,2023-04-29 21:38:35.831663,Electronics,East,Cash on Delivery,1515,4,5,5757.0,4.0,April,4
+1165,2023-04-30 15:09:01.082164,Books,West,UPI,1924,1,10,1731.6,2.0,April,4
+1166,2023-05-01 08:39:26.332665,Clothing,North,Cash on Delivery,4769,4,20,15260.8,1.0,May,5
+1167,2023-05-02 02:09:51.583166,Home & Kitchen,West,UPI,11528,2,0,23056.0,5.0,May,5
+1168,2023-05-02 19:40:16.833667,Books,South,Net Banking,245,5,20,980.0,3.0,May,5
+1169,2023-05-03 13:10:42.084168,Electronics,West,Net Banking,8915,1,5,8469.25,4.0,May,5
+1170,2023-05-04 06:41:07.334669,Home & Kitchen,South,Cash on Delivery,13750,1,5,13062.5,2.0,May,5
+1171,2023-05-05 00:11:32.585170,Electronics,East,Cash on Delivery,47780,3,10,129006.0,1.0,May,5
+1172,2023-05-05 17:41:57.835671,Electronics,South,Net Banking,24333,3,20,58399.2,3.0,May,5
+1173,2023-05-06 11:12:23.086172,Clothing,West,Cash on Delivery,4458,5,0,22290.0,2.0,May,5
+1174,2023-05-07 04:42:48.336673,Home & Kitchen,North,UPI,13728,1,0,13728.0,2.0,May,5
+1175,2023-05-07 22:13:13.587174,Home & Kitchen,South,UPI,4125,5,15,17531.25,3.0,May,5
+1176,2023-05-08 15:43:38.837675,Clothing,East,Net Banking,4300,3,0,12900.0,1.0,May,5
+1177,2023-05-09 09:14:04.088176,Books,South,Credit Card,1733,3,10,4679.1,1.0,May,5
+1178,2023-05-10 02:44:29.338677,Electronics,South,UPI,10844,1,10,9759.6,5.0,May,5
+1179,2023-05-10 20:14:54.589178,Sports,South,Cash on Delivery,7666,4,0,30664.0,4.0,May,5
+1180,2023-05-11 13:45:19.839679,Electronics,East,Credit Card,9202,2,0,18404.0,3.0,May,5
+1181,2023-05-12 07:15:45.090180,Electronics,West,Credit Card,884,3,15,2254.2,3.0,May,5
+1182,2023-05-13 00:46:10.340681,Books,South,UPI,504,3,0,1512.0,3.0,May,5
+1183,2023-05-13 18:16:35.591182,Electronics,South,UPI,41443,4,15,140906.2,1.0,May,5
+1184,2023-05-14 11:47:00.841683,Clothing,North,Credit Card,4913,4,15,16704.2,4.0,May,5
+1185,2023-05-15 05:17:26.092184,Clothing,East,Credit Card,4871,5,0,24355.0,5.0,May,5
+1186,2023-05-15 22:47:51.342685,Home & Kitchen,South,Net Banking,2200,5,5,10450.0,2.0,May,5
+1187,2023-05-16 16:18:16.593186,Sports,East,Cash on Delivery,10260,2,5,19494.0,2.0,May,5
+1188,2023-05-17 09:48:41.843687,Electronics,South,Net Banking,39257,2,15,66736.9,3.0,May,5
+1189,2023-05-18 03:19:07.094188,Electronics,West,UPI,15606,1,0,15606.0,4.0,May,5
+1190,2023-05-18 20:49:32.344689,Books,West,Net Banking,1560,5,5,7410.0,1.0,May,5
+1191,2023-05-19 14:19:57.595190,Clothing,South,Net Banking,3936,3,0,11808.0,4.0,May,5
+1192,2023-05-20 07:50:22.845691,Sports,West,Net Banking,11316,5,0,56580.0,4.0,May,5
+1193,2023-05-21 01:20:48.096192,Home & Kitchen,South,Net Banking,5009,3,0,15027.0,1.0,May,5
+1194,2023-05-21 18:51:13.346693,Clothing,West,Cash on Delivery,4478,4,20,14329.6,3.0,May,5
+1195,2023-05-22 12:21:38.597194,Home & Kitchen,North,Cash on Delivery,13656,5,0,68280.0,4.0,May,5
+1196,2023-05-23 05:52:03.847695,Books,North,Credit Card,1208,4,20,3865.6,2.0,May,5
+1197,2023-05-23 23:22:29.098196,Books,North,UPI,1201,2,15,2041.7,1.0,May,5
+1198,2023-05-24 16:52:54.348697,Electronics,East,Net Banking,39265,2,5,74603.5,5.0,May,5
+1199,2023-05-25 10:23:19.599198,Sports,East,Credit Card,2448,1,5,2325.6,3.0,May,5
+1200,2023-05-26 03:53:44.849699,Home & Kitchen,North,Credit Card,12538,5,5,59555.5,1.0,May,5
+1201,2023-05-26 21:24:10.100200,Clothing,East,Credit Card,1016,4,5,3860.8,5.0,May,5
+1202,2023-05-27 14:54:35.350701,Books,West,Cash on Delivery,1895,3,5,5400.75,5.0,May,5
+1203,2023-05-28 08:25:00.601202,Electronics,South,Net Banking,22449,2,5,42653.1,4.0,May,5
+1204,2023-05-29 01:55:25.851703,Electronics,South,Net Banking,5044,2,5,9583.6,4.0,May,5
+1205,2023-05-29 19:25:51.102204,Home & Kitchen,South,UPI,5176,3,15,13198.8,4.0,May,5
+1206,2023-05-30 12:56:16.352705,Books,North,Net Banking,587,4,0,2348.0,1.0,May,5
+1207,2023-05-31 06:26:41.603206,Sports,East,Net Banking,10415,4,10,37494.0,1.0,May,5
+1208,2023-05-31 23:57:06.853707,Books,West,Credit Card,133,5,20,532.0,3.0,May,5
+1209,2023-06-01 17:27:32.104208,Home & Kitchen,West,UPI,3619,5,10,16285.5,4.0,June,6
+1210,2023-06-02 10:57:57.354709,Home & Kitchen,North,Net Banking,14630,1,10,13167.0,5.0,June,6
+1211,2023-06-03 04:28:22.605210,Books,West,Cash on Delivery,1195,2,0,2390.0,2.0,June,6
+1212,2023-06-03 21:58:47.855711,Home & Kitchen,West,Net Banking,9966,5,0,49830.0,3.0,June,6
+1213,2023-06-04 15:29:13.106212,Books,West,Credit Card,253,4,0,1012.0,1.0,June,6
+1214,2023-06-05 08:59:38.356713,Clothing,West,Cash on Delivery,549,3,5,1564.65,3.0,June,6
+1215,2023-06-06 02:30:03.607214,Books,East,Credit Card,773,4,15,2628.2,3.0,June,6
+1216,2023-06-06 20:00:28.857715,Books,West,Net Banking,537,2,5,1020.3,3.0,June,6
+1217,2023-06-07 13:30:54.108216,Home & Kitchen,South,Cash on Delivery,10557,4,15,35893.8,3.0,June,6
+1218,2023-06-08 07:01:19.358717,Home & Kitchen,North,UPI,970,1,15,824.5,2.0,June,6
+1219,2023-06-09 00:31:44.609218,Electronics,East,UPI,29038,2,10,52268.4,4.0,June,6
+1220,2023-06-09 18:02:09.859719,Electronics,West,Cash on Delivery,32549,3,10,87882.3,5.0,June,6
+1221,2023-06-10 11:32:35.110220,Clothing,East,Cash on Delivery,4663,1,15,3963.55,3.0,June,6
+1222,2023-06-11 05:03:00.360721,Electronics,West,Credit Card,43444,2,15,73854.8,3.0,June,6
+1223,2023-06-11 22:33:25.611222,Books,South,Cash on Delivery,1177,3,5,3354.45,3.0,June,6
+1224,2023-06-12 16:03:50.861723,Home & Kitchen,North,Credit Card,8627,1,5,8195.65,4.0,June,6
+1225,2023-06-13 09:34:16.112224,Electronics,West,Net Banking,41848,1,10,37663.2,1.0,June,6
+1226,2023-06-14 03:04:41.362725,Electronics,West,Credit Card,24785,2,0,49570.0,1.0,June,6
+1227,2023-06-14 20:35:06.613226,Clothing,West,Cash on Delivery,2148,5,15,9129.0,2.0,June,6
+1228,2023-06-15 14:05:31.863727,Clothing,West,Cash on Delivery,3114,1,5,2958.3,1.0,June,6
+1229,2023-06-16 07:35:57.114228,Books,North,Net Banking,1426,1,10,1283.4,3.0,June,6
+1230,2023-06-17 01:06:22.364729,Home & Kitchen,North,Cash on Delivery,11670,3,5,33259.5,3.0,June,6
+1231,2023-06-17 18:36:47.615230,Clothing,South,Cash on Delivery,1552,4,15,5276.8,3.0,June,6
+1232,2023-06-18 12:07:12.865731,Electronics,North,UPI,40264,2,15,68448.8,2.0,June,6
+1233,2023-06-19 05:37:38.116232,Home & Kitchen,West,UPI,12373,2,20,19796.8,3.0,June,6
+1234,2023-06-19 23:08:03.366733,Home & Kitchen,South,Net Banking,4873,5,0,24365.0,3.0,June,6
+1235,2023-06-20 16:38:28.617234,Electronics,South,Credit Card,27198,5,20,108792.0,4.0,June,6
+1236,2023-06-21 10:08:53.867735,Clothing,South,UPI,4830,2,10,8694.0,4.0,June,6
+1237,2023-06-22 03:39:19.118236,Electronics,West,Credit Card,16281,5,5,77334.75,5.0,June,6
+1238,2023-06-22 21:09:44.368737,Home & Kitchen,East,Cash on Delivery,13251,3,10,35777.7,1.0,June,6
+1239,2023-06-23 14:40:09.619238,Sports,West,UPI,7281,2,15,12377.7,3.0,June,6
+1240,2023-06-24 08:10:34.869739,Sports,North,Net Banking,7349,5,20,29396.0,4.0,June,6
+1241,2023-06-25 01:41:00.120240,Books,North,Net Banking,1429,2,20,2286.4,1.0,June,6
+1242,2023-06-25 19:11:25.370741,Electronics,West,Net Banking,8517,4,20,27254.4,4.0,June,6
+1243,2023-06-26 12:41:50.621242,Electronics,West,UPI,7441,1,10,6696.9,3.0,June,6
+1244,2023-06-27 06:12:15.871743,Books,South,Credit Card,1458,2,15,2478.6,4.0,June,6
+1245,2023-06-27 23:42:41.122244,Books,West,Cash on Delivery,958,1,5,910.1,3.0,June,6
+1246,2023-06-28 17:13:06.372745,Books,South,Credit Card,534,5,5,2536.5,5.0,June,6
+1247,2023-06-29 10:43:31.623246,Home & Kitchen,North,Credit Card,12934,1,10,11640.6,4.0,June,6
+1248,2023-06-30 04:13:56.873747,Electronics,South,Cash on Delivery,10709,2,20,17134.4,1.0,June,6
+1249,2023-06-30 21:44:22.124248,Home & Kitchen,West,Cash on Delivery,1531,4,0,6124.0,1.0,June,6
+1250,2023-07-01 15:14:47.374749,Books,North,UPI,348,5,10,1566.0,1.0,July,7
+1251,2023-07-02 08:45:12.625250,Electronics,East,UPI,32203,2,10,57965.4,4.0,July,7
+1252,2023-07-03 02:15:37.875751,Home & Kitchen,South,UPI,9750,5,15,41437.5,1.0,July,7
+1253,2023-07-03 19:46:03.126252,Home & Kitchen,North,UPI,5315,3,5,15147.75,3.0,July,7
+1254,2023-07-04 13:16:28.376753,Books,South,UPI,641,1,10,576.9,5.0,July,7
+1255,2023-07-05 06:46:53.627254,Electronics,North,Cash on Delivery,5354,3,10,14455.8,3.0,July,7
+1256,2023-07-06 00:17:18.877755,Books,North,Credit Card,1229,2,20,1966.4,1.0,July,7
+1257,2023-07-06 17:47:44.128256,Electronics,South,UPI,43588,4,20,139481.6,3.0,July,7
+1258,2023-07-07 11:18:09.378757,Sports,East,UPI,18964,5,0,94820.0,1.0,July,7
+1259,2023-07-08 04:48:34.629258,Clothing,North,Credit Card,437,1,15,371.45,4.0,July,7
+1260,2023-07-08 22:18:59.879759,Clothing,North,UPI,3772,5,0,18860.0,3.0,July,7
+1261,2023-07-09 15:49:25.130260,Clothing,North,Credit Card,3132,2,20,5011.2,4.0,July,7
+1262,2023-07-10 09:19:50.380761,Books,East,Credit Card,1631,5,5,7747.25,3.0,July,7
+1263,2023-07-11 02:50:15.631262,Sports,East,Cash on Delivery,4564,1,20,3651.2,2.0,July,7
+1264,2023-07-11 20:20:40.881763,Electronics,West,Net Banking,27669,2,15,47037.3,1.0,July,7
+1265,2023-07-12 13:51:06.132264,Home & Kitchen,South,Cash on Delivery,8141,5,20,32564.0,5.0,July,7
+1266,2023-07-13 07:21:31.382765,Electronics,East,Net Banking,14888,4,15,50619.2,1.0,July,7
+1267,2023-07-14 00:51:56.633266,Home & Kitchen,South,Net Banking,5769,2,15,9807.3,5.0,July,7
+1268,2023-07-14 18:22:21.883767,Electronics,West,Net Banking,4800,2,15,8160.0,1.0,July,7
+1269,2023-07-15 11:52:47.134268,Sports,South,UPI,6669,4,15,22674.6,4.0,July,7
+1270,2023-07-16 05:23:12.384769,Home & Kitchen,East,Cash on Delivery,4018,3,15,10245.9,3.0,July,7
+1271,2023-07-16 22:53:37.635270,Books,South,Net Banking,142,1,5,134.9,3.0,July,7
+1272,2023-07-17 16:24:02.885771,Electronics,East,Credit Card,12515,3,0,37545.0,2.0,July,7
+1273,2023-07-18 09:54:28.136272,Electronics,South,UPI,45502,5,10,204759.0,5.0,July,7
+1274,2023-07-19 03:24:53.386773,Home & Kitchen,East,Cash on Delivery,2106,4,0,8424.0,5.0,July,7
+1275,2023-07-19 20:55:18.637274,Books,East,Net Banking,210,3,15,535.5,5.0,July,7
+1276,2023-07-20 14:25:43.887775,Books,South,Credit Card,860,2,5,1634.0,4.0,July,7
+1277,2023-07-21 07:56:09.138276,Sports,West,Cash on Delivery,7750,5,20,31000.0,5.0,July,7
+1278,2023-07-22 01:26:34.388777,Books,North,Cash on Delivery,947,5,5,4498.25,3.0,July,7
+1279,2023-07-22 18:56:59.639278,Books,West,UPI,194,3,15,494.7,4.0,July,7
+1280,2023-07-23 12:27:24.889779,Books,South,Cash on Delivery,1497,3,5,4266.45,1.0,July,7
+1281,2023-07-24 05:57:50.140280,Clothing,West,UPI,1199,4,5,4556.2,5.0,July,7
+1282,2023-07-24 23:28:15.390781,Sports,East,Net Banking,13047,1,15,11089.95,5.0,July,7
+1283,2023-07-25 16:58:40.641282,Electronics,North,UPI,43179,3,5,123060.15,1.0,July,7
+1284,2023-07-26 10:29:05.891783,Home & Kitchen,South,Credit Card,8672,3,10,23414.4,5.0,July,7
+1285,2023-07-27 03:59:31.142284,Electronics,South,UPI,18771,2,10,33787.8,1.0,July,7
+1286,2023-07-27 21:29:56.392785,Sports,South,Credit Card,3666,5,5,17413.5,4.0,July,7
+1287,2023-07-28 15:00:21.643286,Home & Kitchen,North,UPI,866,1,20,692.8,3.0,July,7
+1288,2023-07-29 08:30:46.893787,Sports,East,Cash on Delivery,4588,2,15,7799.6,1.0,July,7
+1289,2023-07-30 02:01:12.144288,Books,South,Net Banking,771,4,10,2775.6,2.0,July,7
+1290,2023-07-30 19:31:37.394789,Home & Kitchen,West,Credit Card,10361,4,20,33155.2,1.0,July,7
+1291,2023-07-31 13:02:02.645290,Books,South,UPI,160,3,5,456.0,5.0,July,7
+1292,2023-08-01 06:32:27.895791,Electronics,South,UPI,11814,3,20,28353.6,4.0,August,8
+1293,2023-08-02 00:02:53.146292,Electronics,South,UPI,24454,4,0,97816.0,4.0,August,8
+1294,2023-08-02 17:33:18.396793,Home & Kitchen,South,Cash on Delivery,8156,3,10,22021.2,1.0,August,8
+1295,2023-08-03 11:03:43.647294,Home & Kitchen,East,Cash on Delivery,5324,1,5,5057.8,3.0,August,8
+1296,2023-08-04 04:34:08.897795,Sports,West,Credit Card,13291,3,15,33892.05,2.0,August,8
+1297,2023-08-04 22:04:34.148296,Sports,East,Credit Card,5177,5,5,24590.75,4.0,August,8
+1298,2023-08-05 15:34:59.398797,Books,West,Cash on Delivery,1952,3,15,4977.6,5.0,August,8
+1299,2023-08-06 09:05:24.649298,Home & Kitchen,South,Credit Card,6877,2,5,13066.3,5.0,August,8
+1300,2023-08-07 02:35:49.899799,Electronics,North,Net Banking,14216,1,20,11372.8,3.0,August,8
+1301,2023-08-07 20:06:15.150300,Sports,East,Net Banking,7381,2,20,11809.6,4.0,August,8
+1302,2023-08-08 13:36:40.400801,Sports,North,Cash on Delivery,6776,2,20,10841.6,1.0,August,8
+1303,2023-08-09 07:07:05.651302,Electronics,East,Credit Card,17407,5,0,87035.0,5.0,August,8
+1304,2023-08-10 00:37:30.901803,Sports,South,UPI,19177,1,15,16300.45,3.0,August,8
+1305,2023-08-10 18:07:56.152304,Books,East,Net Banking,1169,1,20,935.2,4.0,August,8
+1306,2023-08-11 11:38:21.402805,Home & Kitchen,South,Cash on Delivery,2793,1,0,2793.0,3.0,August,8
+1307,2023-08-12 05:08:46.653306,Electronics,East,Credit Card,43428,1,15,36913.8,4.0,August,8
+1308,2023-08-12 22:39:11.903807,Home & Kitchen,South,Cash on Delivery,13589,1,5,12909.55,4.0,August,8
+1309,2023-08-13 16:09:37.154308,Sports,South,UPI,14524,5,0,72620.0,4.0,August,8
+1310,2023-08-14 09:40:02.404809,Sports,West,Net Banking,16682,3,10,45041.4,5.0,August,8
+1311,2023-08-15 03:10:27.655310,Electronics,South,Cash on Delivery,24124,2,0,48248.0,3.0,August,8
+1312,2023-08-15 20:40:52.905811,Books,West,Cash on Delivery,893,1,0,893.0,4.0,August,8
+1313,2023-08-16 14:11:18.156312,Clothing,South,Cash on Delivery,2596,3,15,6619.8,2.0,August,8
+1314,2023-08-17 07:41:43.406813,Electronics,North,UPI,23074,3,5,65760.9,2.0,August,8
+1315,2023-08-18 01:12:08.657314,Clothing,South,Cash on Delivery,2561,2,10,4609.8,3.0,August,8
+1316,2023-08-18 18:42:33.907815,Clothing,North,UPI,2586,5,20,10344.0,1.0,August,8
+1317,2023-08-19 12:12:59.158316,Books,North,UPI,1179,4,20,3772.8,1.0,August,8
+1318,2023-08-20 05:43:24.408817,Clothing,South,UPI,4502,4,0,18008.0,1.0,August,8
+1319,2023-08-20 23:13:49.659318,Clothing,North,Net Banking,3178,3,15,8103.9,2.0,August,8
+1320,2023-08-21 16:44:14.909819,Books,West,Net Banking,147,2,15,249.9,1.0,August,8
+1321,2023-08-22 10:14:40.160320,Clothing,East,Cash on Delivery,3944,4,20,12620.8,5.0,August,8
+1322,2023-08-23 03:45:05.410821,Clothing,South,Cash on Delivery,4732,3,10,12776.4,4.0,August,8
+1323,2023-08-23 21:15:30.661322,Clothing,North,Net Banking,2355,5,5,11186.25,2.0,August,8
+1324,2023-08-24 14:45:55.911823,Electronics,South,Credit Card,14678,4,10,52840.8,3.0,August,8
+1325,2023-08-25 08:16:21.162324,Electronics,West,Net Banking,22695,3,5,64680.75,3.0,August,8
+1326,2023-08-26 01:46:46.412825,Electronics,South,UPI,802,3,20,1924.8,4.0,August,8
+1327,2023-08-26 19:17:11.663326,Books,South,Net Banking,738,1,5,701.1,2.0,August,8
+1328,2023-08-27 12:47:36.913827,Sports,North,UPI,455,5,15,1933.75,1.0,August,8
+1329,2023-08-28 06:18:02.164328,Clothing,West,Cash on Delivery,825,1,0,825.0,1.0,August,8
+1330,2023-08-28 23:48:27.414829,Clothing,East,Credit Card,4869,2,0,9738.0,5.0,August,8
+1331,2023-08-29 17:18:52.665330,Books,East,Cash on Delivery,127,1,20,101.6,5.0,August,8
+1332,2023-08-30 10:49:17.915831,Clothing,North,UPI,2425,1,15,2061.25,1.0,August,8
+1333,2023-08-31 04:19:43.166332,Electronics,South,UPI,44747,4,10,161089.2,3.0,August,8
+1334,2023-08-31 21:50:08.416833,Sports,North,UPI,16145,3,15,41169.75,3.0,August,8
+1335,2023-09-01 15:20:33.667334,Home & Kitchen,North,Credit Card,564,5,0,2820.0,5.0,September,9
+1336,2023-09-02 08:50:58.917835,Clothing,North,Net Banking,4921,1,0,4921.0,4.0,September,9
+1337,2023-09-03 02:21:24.168336,Electronics,South,Cash on Delivery,15534,5,15,66019.5,1.0,September,9
+1338,2023-09-03 19:51:49.418837,Home & Kitchen,West,Cash on Delivery,13823,1,15,11749.55,5.0,September,9
+1339,2023-09-04 13:22:14.669338,Sports,North,Net Banking,5526,2,0,11052.0,5.0,September,9
+1340,2023-09-05 06:52:39.919839,Home & Kitchen,South,Cash on Delivery,5322,1,10,4789.8,1.0,September,9
+1341,2023-09-06 00:23:05.170340,Electronics,West,Credit Card,18530,4,20,59296.0,1.0,September,9
+1342,2023-09-06 17:53:30.420841,Home & Kitchen,North,Cash on Delivery,1118,3,20,2683.2,3.0,September,9
+1343,2023-09-07 11:23:55.671342,Books,East,UPI,849,2,15,1443.3,4.0,September,9
+1344,2023-09-08 04:54:20.921843,Home & Kitchen,West,Net Banking,6706,1,20,5364.8,4.0,September,9
+1345,2023-09-08 22:24:46.172344,Clothing,North,Credit Card,1831,5,0,9155.0,1.0,September,9
+1346,2023-09-09 15:55:11.422845,Clothing,West,Net Banking,3645,2,0,7290.0,2.0,September,9
+1347,2023-09-10 09:25:36.673346,Books,West,Credit Card,1629,2,15,2769.3,5.0,September,9
+1348,2023-09-11 02:56:01.923847,Electronics,West,UPI,23833,1,15,20258.05,5.0,September,9
+1349,2023-09-11 20:26:27.174348,Clothing,West,Net Banking,2206,2,15,3750.2,1.0,September,9
+1350,2023-09-12 13:56:52.424849,Sports,West,Cash on Delivery,3486,5,10,15687.0,2.0,September,9
+1351,2023-09-13 07:27:17.675350,Clothing,West,Credit Card,4880,2,20,7808.0,3.0,September,9
+1352,2023-09-14 00:57:42.925851,Clothing,North,Net Banking,2375,5,15,10093.75,1.0,September,9
+1353,2023-09-14 18:28:08.176352,Electronics,East,Cash on Delivery,25789,1,5,24499.55,1.0,September,9
+1354,2023-09-15 11:58:33.426853,Home & Kitchen,South,Net Banking,1262,3,5,3596.7,5.0,September,9
+1355,2023-09-16 05:28:58.677354,Clothing,West,Net Banking,2276,2,0,4552.0,1.0,September,9
+1356,2023-09-16 22:59:23.927855,Books,South,Net Banking,1396,3,20,3350.4,1.0,September,9
+1357,2023-09-17 16:29:49.178356,Home & Kitchen,North,Credit Card,13742,5,15,58403.5,1.0,September,9
+1358,2023-09-18 10:00:14.428857,Sports,West,Cash on Delivery,6629,2,5,12595.1,5.0,September,9
+1359,2023-09-19 03:30:39.679358,Electronics,East,UPI,49777,4,20,159286.4,3.0,September,9
+1360,2023-09-19 21:01:04.929859,Sports,South,Credit Card,15547,3,0,46641.0,3.0,September,9
+1361,2023-09-20 14:31:30.180360,Home & Kitchen,West,Credit Card,4832,2,10,8697.6,1.0,September,9
+1362,2023-09-21 08:01:55.430861,Home & Kitchen,North,Credit Card,6488,3,20,15571.2,5.0,September,9
+1363,2023-09-22 01:32:20.681362,Home & Kitchen,East,UPI,3796,2,20,6073.6,3.0,September,9
+1364,2023-09-22 19:02:45.931863,Sports,South,Cash on Delivery,11875,1,10,10687.5,3.0,September,9
+1365,2023-09-23 12:33:11.182364,Home & Kitchen,South,Cash on Delivery,6368,3,20,15283.2,3.0,September,9
+1366,2023-09-24 06:03:36.432865,Sports,West,Cash on Delivery,10195,4,0,40780.0,5.0,September,9
+1367,2023-09-24 23:34:01.683366,Home & Kitchen,East,Net Banking,7761,4,0,31044.0,5.0,September,9
+1368,2023-09-25 17:04:26.933867,Books,East,Net Banking,166,5,10,747.0,1.0,September,9
+1369,2023-09-26 10:34:52.184368,Home & Kitchen,East,Net Banking,432,2,15,734.4,4.0,September,9
+1370,2023-09-27 04:05:17.434869,Sports,East,UPI,6771,3,5,19297.35,3.0,September,9
+1371,2023-09-27 21:35:42.685370,Clothing,North,Net Banking,4506,5,15,19150.5,4.0,September,9
+1372,2023-09-28 15:06:07.935871,Home & Kitchen,East,UPI,9885,3,20,23724.0,5.0,September,9
+1373,2023-09-29 08:36:33.186372,Clothing,South,Cash on Delivery,4307,2,5,8183.3,5.0,September,9
+1374,2023-09-30 02:06:58.436873,Books,South,Net Banking,1492,4,10,5371.2,5.0,September,9
+1375,2023-09-30 19:37:23.687374,Electronics,North,Net Banking,23775,1,10,21397.5,4.0,September,9
+1376,2023-10-01 13:07:48.937875,Books,South,Credit Card,694,4,5,2637.2,5.0,October,10
+1377,2023-10-02 06:38:14.188376,Home & Kitchen,South,UPI,2672,5,0,13360.0,1.0,October,10
+1378,2023-10-03 00:08:39.438877,Clothing,East,Cash on Delivery,2960,1,5,2812.0,5.0,October,10
+1379,2023-10-03 17:39:04.689378,Clothing,South,Credit Card,3039,5,20,12156.0,2.0,October,10
+1380,2023-10-04 11:09:29.939879,Sports,North,Credit Card,16079,2,0,32158.0,4.0,October,10
+1381,2023-10-05 04:39:55.190380,Clothing,East,Cash on Delivery,2061,1,10,1854.9,2.0,October,10
+1382,2023-10-05 22:10:20.440881,Sports,West,Credit Card,10567,5,5,50193.25,5.0,October,10
+1383,2023-10-06 15:40:45.691382,Electronics,East,UPI,11054,2,15,18791.8,1.0,October,10
+1384,2023-10-07 09:11:10.941883,Home & Kitchen,North,UPI,1076,4,15,3658.4,3.0,October,10
+1385,2023-10-08 02:41:36.192384,Sports,East,Net Banking,14677,2,20,23483.2,5.0,October,10
+1386,2023-10-08 20:12:01.442885,Electronics,East,Credit Card,4312,3,15,10995.6,1.0,October,10
+1387,2023-10-09 13:42:26.693386,Clothing,North,Net Banking,3748,2,5,7121.2,4.0,October,10
+1388,2023-10-10 07:12:51.943887,Clothing,East,Credit Card,1612,2,5,3062.8,2.0,October,10
+1389,2023-10-11 00:43:17.194388,Electronics,North,UPI,27785,3,15,70851.75,2.0,October,10
+1390,2023-10-11 18:13:42.444889,Clothing,North,UPI,2624,5,5,12464.0,2.0,October,10
+1391,2023-10-12 11:44:07.695390,Electronics,West,UPI,2105,5,20,8420.0,4.0,October,10
+1392,2023-10-13 05:14:32.945891,Sports,South,Credit Card,6022,2,0,12044.0,1.0,October,10
+1393,2023-10-13 22:44:58.196392,Sports,South,UPI,7167,3,20,17200.8,4.0,October,10
+1394,2023-10-14 16:15:23.446893,Electronics,East,Credit Card,27639,3,20,66333.6,2.0,October,10
+1395,2023-10-15 09:45:48.697394,Sports,East,Net Banking,12013,4,5,45649.4,5.0,October,10
+1396,2023-10-16 03:16:13.947895,Sports,West,Credit Card,10989,5,0,54945.0,3.0,October,10
+1397,2023-10-16 20:46:39.198396,Sports,West,Net Banking,14318,1,5,13602.1,4.0,October,10
+1398,2023-10-17 14:17:04.448897,Books,West,Credit Card,1787,5,10,8041.5,4.0,October,10
+1399,2023-10-18 07:47:29.699398,Home & Kitchen,North,Net Banking,11262,5,5,53494.5,3.0,October,10
+1400,2023-10-19 01:17:54.949899,Clothing,West,UPI,1460,4,5,5548.0,1.0,October,10
+1401,2023-10-19 18:48:20.200400,Books,West,Net Banking,858,1,5,815.1,4.0,October,10
+1402,2023-10-20 12:18:45.450901,Sports,East,UPI,2990,4,0,11960.0,2.0,October,10
+1403,2023-10-21 05:49:10.701402,Electronics,West,UPI,4824,1,5,4582.8,3.0,October,10
+1404,2023-10-21 23:19:35.951903,Sports,North,Net Banking,11187,2,0,22374.0,1.0,October,10
+1405,2023-10-22 16:50:01.202404,Home & Kitchen,North,Credit Card,9311,1,15,7914.35,2.0,October,10
+1406,2023-10-23 10:20:26.452905,Sports,East,Credit Card,5742,4,10,20671.2,5.0,October,10
+1407,2023-10-24 03:50:51.703406,Electronics,West,Cash on Delivery,16889,5,0,84445.0,1.0,October,10
+1408,2023-10-24 21:21:16.953907,Home & Kitchen,West,Credit Card,7689,1,15,6535.65,2.0,October,10
+1409,2023-10-25 14:51:42.204408,Sports,North,Cash on Delivery,9059,1,0,9059.0,2.0,October,10
+1410,2023-10-26 08:22:07.454909,Home & Kitchen,West,Credit Card,14243,3,0,42729.0,3.0,October,10
+1411,2023-10-27 01:52:32.705410,Clothing,West,Credit Card,4470,5,10,20115.0,3.0,October,10
+1412,2023-10-27 19:22:57.955911,Clothing,West,UPI,303,2,20,484.8,5.0,October,10
+1413,2023-10-28 12:53:23.206412,Sports,South,Cash on Delivery,9237,4,20,29558.4,2.0,October,10
+1414,2023-10-29 06:23:48.456913,Home & Kitchen,East,Credit Card,317,2,0,634.0,2.0,October,10
+1415,2023-10-29 23:54:13.707414,Electronics,South,Cash on Delivery,47185,5,5,224128.75,3.0,October,10
+1416,2023-10-30 17:24:38.957915,Sports,East,UPI,19335,1,15,16434.75,1.0,October,10
+1417,2023-10-31 10:55:04.208416,Clothing,North,UPI,4589,1,5,4359.55,1.0,October,10
+1418,2023-11-01 04:25:29.458917,Clothing,West,Cash on Delivery,1146,5,5,5443.5,4.0,November,11
+1419,2023-11-01 21:55:54.709418,Sports,East,UPI,11354,1,0,11354.0,3.0,November,11
+1420,2023-11-02 15:26:19.959919,Home & Kitchen,South,Net Banking,13903,1,0,13903.0,4.0,November,11
+1421,2023-11-03 08:56:45.210420,Clothing,West,Net Banking,1441,1,0,1441.0,3.0,November,11
+1422,2023-11-04 02:27:10.460921,Home & Kitchen,North,UPI,10202,4,0,40808.0,5.0,November,11
+1423,2023-11-04 19:57:35.711422,Clothing,East,Net Banking,1023,4,20,3273.6,2.0,November,11
+1424,2023-11-05 13:28:00.961923,Clothing,East,Credit Card,524,3,0,1572.0,5.0,November,11
+1425,2023-11-06 06:58:26.212424,Books,East,Cash on Delivery,631,2,20,1009.6,3.0,November,11
+1426,2023-11-07 00:28:51.462925,Clothing,West,Credit Card,4508,5,20,18032.0,3.0,November,11
+1427,2023-11-07 17:59:16.713426,Electronics,South,Cash on Delivery,39551,5,0,197755.0,1.0,November,11
+1428,2023-11-08 11:29:41.963927,Sports,South,UPI,2448,5,10,11016.0,1.0,November,11
+1429,2023-11-09 05:00:07.214428,Sports,East,Credit Card,6633,3,15,16914.15,4.0,November,11
+1430,2023-11-09 22:30:32.464929,Home & Kitchen,North,UPI,13141,4,5,49935.8,3.0,November,11
+1431,2023-11-10 16:00:57.715430,Clothing,North,UPI,4715,3,20,11316.0,3.0,November,11
+1432,2023-11-11 09:31:22.965931,Electronics,South,Cash on Delivery,43033,5,15,182890.25,1.0,November,11
+1433,2023-11-12 03:01:48.216432,Home & Kitchen,North,Cash on Delivery,2028,2,10,3650.4,5.0,November,11
+1434,2023-11-12 20:32:13.466933,Books,South,Cash on Delivery,238,1,5,226.1,2.0,November,11
+1435,2023-11-13 14:02:38.717434,Home & Kitchen,East,Credit Card,7188,4,5,27314.4,5.0,November,11
+1436,2023-11-14 07:33:03.967935,Home & Kitchen,South,Net Banking,2226,4,20,7123.2,5.0,November,11
+1437,2023-11-15 01:03:29.218436,Clothing,South,Cash on Delivery,4044,3,0,12132.0,1.0,November,11
+1438,2023-11-15 18:33:54.468937,Books,East,Cash on Delivery,1001,4,10,3603.6,1.0,November,11
+1439,2023-11-16 12:04:19.719438,Home & Kitchen,North,Credit Card,13177,5,20,52708.0,1.0,November,11
+1440,2023-11-17 05:34:44.969939,Electronics,South,Cash on Delivery,509,5,10,2290.5,4.0,November,11
+1441,2023-11-17 23:05:10.220440,Electronics,South,Credit Card,17144,3,0,51432.0,5.0,November,11
+1442,2023-11-18 16:35:35.470941,Sports,East,UPI,10265,5,0,51325.0,3.0,November,11
+1443,2023-11-19 10:06:00.721442,Books,North,Cash on Delivery,271,2,20,433.6,2.0,November,11
+1444,2023-11-20 03:36:25.971943,Books,South,Cash on Delivery,997,3,0,2991.0,4.0,November,11
+1445,2023-11-20 21:06:51.222444,Sports,East,UPI,18844,2,15,32034.8,3.0,November,11
+1446,2023-11-21 14:37:16.472945,Home & Kitchen,South,UPI,5487,1,5,5212.65,5.0,November,11
+1447,2023-11-22 08:07:41.723446,Books,West,UPI,1765,2,20,2824.0,1.0,November,11
+1448,2023-11-23 01:38:06.973947,Electronics,East,Cash on Delivery,34887,1,10,31398.3,3.0,November,11
+1449,2023-11-23 19:08:32.224448,Electronics,North,Net Banking,9012,1,15,7660.2,2.0,November,11
+1450,2023-11-24 12:38:57.474949,Clothing,North,Net Banking,1642,2,20,2627.2,4.0,November,11
+1451,2023-11-25 06:09:22.725450,Books,North,Net Banking,1736,3,0,5208.0,4.0,November,11
+1452,2023-11-25 23:39:47.975951,Home & Kitchen,North,Cash on Delivery,10768,5,0,53840.0,2.0,November,11
+1453,2023-11-26 17:10:13.226452,Sports,South,UPI,19616,5,0,98080.0,3.0,November,11
+1454,2023-11-27 10:40:38.476953,Sports,South,Cash on Delivery,19608,1,0,19608.0,3.0,November,11
+1455,2023-11-28 04:11:03.727454,Home & Kitchen,North,UPI,2194,1,10,1974.6,4.0,November,11
+1456,2023-11-28 21:41:28.977955,Clothing,North,Cash on Delivery,3258,3,15,8307.9,4.0,November,11
+1457,2023-11-29 15:11:54.228456,Sports,North,Cash on Delivery,14631,4,5,55597.8,1.0,November,11
+1458,2023-11-30 08:42:19.478957,Books,South,UPI,1673,2,10,3011.4,3.0,November,11
+1459,2023-12-01 02:12:44.729458,Clothing,North,Net Banking,2338,1,10,2104.2,2.0,December,12
+1460,2023-12-01 19:43:09.979959,Books,North,UPI,1542,5,5,7324.5,3.0,December,12
+1461,2023-12-02 13:13:35.230460,Electronics,West,Credit Card,28753,3,5,81946.05,1.0,December,12
+1462,2023-12-03 06:44:00.480961,Clothing,West,Credit Card,1418,2,0,2836.0,4.0,December,12
+1463,2023-12-04 00:14:25.731462,Sports,North,UPI,8384,3,10,22636.8,4.0,December,12
+1464,2023-12-04 17:44:50.981963,Clothing,East,Cash on Delivery,1904,2,20,3046.4,1.0,December,12
+1465,2023-12-05 11:15:16.232464,Clothing,North,Credit Card,4327,2,5,8221.3,2.0,December,12
+1466,2023-12-06 04:45:41.482965,Clothing,West,Credit Card,535,1,5,508.25,4.0,December,12
+1467,2023-12-06 22:16:06.733466,Clothing,East,Cash on Delivery,2269,3,15,5785.95,5.0,December,12
+1468,2023-12-07 15:46:31.983967,Books,East,Cash on Delivery,433,3,20,1039.2,4.0,December,12
+1469,2023-12-08 09:16:57.234468,Electronics,North,Net Banking,2408,5,20,9632.0,5.0,December,12
+1470,2023-12-09 02:47:22.484969,Home & Kitchen,West,Cash on Delivery,8767,5,5,41643.25,1.0,December,12
+1471,2023-12-09 20:17:47.735470,Clothing,West,UPI,3830,1,0,3830.0,1.0,December,12
+1472,2023-12-10 13:48:12.985971,Sports,East,UPI,5656,1,15,4807.6,4.0,December,12
+1473,2023-12-11 07:18:38.236472,Clothing,North,Net Banking,2935,4,20,9392.0,3.0,December,12
+1474,2023-12-12 00:49:03.486973,Sports,South,Credit Card,8562,5,5,40669.5,5.0,December,12
+1475,2023-12-12 18:19:28.737474,Books,South,Credit Card,1670,2,20,2672.0,3.0,December,12
+1476,2023-12-13 11:49:53.987975,Sports,West,Cash on Delivery,19344,3,15,49327.2,4.0,December,12
+1477,2023-12-14 05:20:19.238476,Home & Kitchen,South,UPI,5615,1,15,4772.75,2.0,December,12
+1478,2023-12-14 22:50:44.488977,Electronics,West,Credit Card,36659,3,10,98979.3,4.0,December,12
+1479,2023-12-15 16:21:09.739478,Sports,West,Net Banking,11557,3,5,32937.45,3.0,December,12
+1480,2023-12-16 09:51:34.989979,Sports,West,Net Banking,6351,4,15,21593.4,3.0,December,12
+1481,2023-12-17 03:22:00.240480,Electronics,South,UPI,22352,5,10,100584.0,3.0,December,12
+1482,2023-12-17 20:52:25.490981,Home & Kitchen,West,Net Banking,8207,1,10,7386.3,3.0,December,12
+1483,2023-12-18 14:22:50.741482,Clothing,East,Net Banking,4150,3,20,9960.0,1.0,December,12
+1484,2023-12-19 07:53:15.991983,Sports,North,UPI,9464,1,20,7571.2,1.0,December,12
+1485,2023-12-20 01:23:41.242484,Electronics,North,Cash on Delivery,31023,2,10,55841.4,5.0,December,12
+1486,2023-12-20 18:54:06.492985,Books,West,Cash on Delivery,897,4,20,2870.4,2.0,December,12
+1487,2023-12-21 12:24:31.743486,Electronics,North,Net Banking,21704,2,15,36896.8,4.0,December,12
+1488,2023-12-22 05:54:56.993987,Books,South,Cash on Delivery,1288,1,0,1288.0,4.0,December,12
+1489,2023-12-22 23:25:22.244488,Home & Kitchen,South,Cash on Delivery,14540,1,15,12359.0,1.0,December,12
+1490,2023-12-23 16:55:47.494989,Clothing,North,Net Banking,3198,5,10,14391.0,4.0,December,12
+1491,2023-12-24 10:26:12.745490,Electronics,South,Cash on Delivery,24430,3,10,65961.0,1.0,December,12
+1492,2023-12-25 03:56:37.995991,Sports,North,Net Banking,477,3,15,1216.35,5.0,December,12
+1493,2023-12-25 21:27:03.246492,Home & Kitchen,North,Credit Card,7777,2,20,12443.2,2.0,December,12
+1494,2023-12-26 14:57:28.496993,Electronics,North,UPI,21111,4,20,67555.2,5.0,December,12
+1495,2023-12-27 08:27:53.747494,Sports,West,UPI,17384,3,10,46936.8,3.0,December,12
+1496,2023-12-28 01:58:18.997995,Electronics,North,Cash on Delivery,14560,5,5,69160.0,3.0,December,12
+1497,2023-12-28 19:28:44.248496,Books,West,Cash on Delivery,1165,2,20,1864.0,3.0,December,12
+1498,2023-12-29 12:59:09.498997,Electronics,North,Cash on Delivery,19020,2,15,32334.0,5.0,December,12
+1499,2023-12-30 06:29:34.749499,Electronics,North,UPI,43803,5,20,175212.0,4.0,December,12
+1500,2023-12-31 00:00:00.000000,Electronics,North,Credit Card,10010,4,15,34034.0,2.0,December,12
